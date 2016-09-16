@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: The Power of Comics
+title: The Power of Comics: History, Form and Culture
 author: Randy Duncan & Matthew J. Smith
 publication-date: 2009
 source: "Duncan, Randy, and Matthew J. Smith. The Power of Comics: History, Form and Culture. New York: Continuum, 2009. Print."
